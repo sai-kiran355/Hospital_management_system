@@ -33,12 +33,7 @@ This initiative facilitates online appointment requests for clients or patients 
   - Delete account
   - Edit account settings    
 
-    
-| Admin Dashboard | Doctor Dashboard | Patient Dashboard |
-| -------| -------| -------|
-| Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@careLink.com` | 
-| Password: `123` |  Password: `123` |  Password: `123456` |
- | 
+  
   
 -----------------------------------------------
 
